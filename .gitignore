@@ -1,0 +1,8 @@
+# Add these lines
+.env
+*.env.local
+venv/
+logs/
+data/
+__pycache__/
+*.py[cod]
